@@ -1,0 +1,8 @@
+.idea
+.metadata
+.recommenders
+bin
+*.iml
+.classpath
+.project
+.settings
